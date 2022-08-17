@@ -4,6 +4,7 @@ import Contact from "./components/Contact";
 import { Route, BrowserRouter as Router , Routes} from "react-router-dom";
 import AddProduct from "./components/AddProduct";
 import EditProduct from "./components/EditProduct";
+import InputData from "./components/InputData";
  
 function App() {
   return (
